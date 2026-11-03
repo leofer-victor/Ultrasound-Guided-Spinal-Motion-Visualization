@@ -9,6 +9,7 @@ This repository contains prototype tools used in a robotic ultrasound-CBCT workf
 ## Demonstration video
 
 <video controls src="media/IPCAI2026_video.mp4" title="Title"></video>
+
 The video demonstrates the ultrasound-guided spinal motion visualization workflow presented in the accompanying paper.
 
 ## Repository contents
