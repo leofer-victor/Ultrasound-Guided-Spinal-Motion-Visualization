@@ -1,0 +1,1 @@
+python u_net_inference.py --scan_mode linear
